@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Space-Navigation-View.iml" filepath="$PROJECT_DIR$/.idea/modules/Space-Navigation-View.iml" group="Space-Navigation-View" />
       <module fileurl="file://$PROJECT_DIR$/Space-Navigation-View-Fork.iml" filepath="$PROJECT_DIR$/Space-Navigation-View-Fork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Space-Navigation-View-Fork.iml" filepath="$PROJECT_DIR$/Space-Navigation-View-Fork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spacelib/Space-Navigation-View-spacelib.iml" filepath="$PROJECT_DIR$/.idea/modules/spacelib/Space-Navigation-View-spacelib.iml" group="Space-Navigation-View/spacelib" />
       <module fileurl="file://$PROJECT_DIR$/spacelib/spacelib.iml" filepath="$PROJECT_DIR$/spacelib/spacelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spacenavigation/spacenavigation.iml" filepath="$PROJECT_DIR$/.idea/modules/spacenavigation/spacenavigation.iml" group="Space-Navigation-View/spacenavigation" />
     </modules>
   </component>
 </project>

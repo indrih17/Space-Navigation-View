@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Space Navigation</string>
     <string name="space_scrolling_view_behavior">com.luseen.spacenavigation.SpaceNavigationViewBehavior</string>
+    <string name="menu_item">Пункт меню</string>
 </resources>
